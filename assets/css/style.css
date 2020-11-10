@@ -1,0 +1,30 @@
+
+
+
+#green{
+    background-color: #008000;
+    color: #fff;
+    width: 30px;
+    height: 15px;
+    
+    margin: 25px;
+    padding-top: 10px;
+}
+#red{
+    background-color: #ff0000;
+    color: #fff;
+    width: 30px;
+    height: 15px;
+    
+    margin: 25px;
+    padding-top: 10px;
+}
+#blue{
+    background-color: #0000ff;
+    color: #fff;
+    width: 30px;
+    height: 15px;
+    margin: 25px;
+    padding-top: 10px;
+
+}
